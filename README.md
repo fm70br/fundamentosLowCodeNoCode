@@ -1,2 +1,3 @@
-# fundamentosLowCodeNoCode
-Repositório para a matéria Fundamentos Low Code No Code (Unifecaf)
+# Administrador de Tarefas
+Aplicativo Bubble para administração de tarefas
+<img src="adm_tarefas_main.png" alt="Administrador de tarefas">
