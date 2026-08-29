@@ -12,7 +12,7 @@ Uma aplicação web desenvolvida sem código (No-Code) na plataforma **Bubble.io
 ## 🔗 Links de Acesso
 
 - **Aplicação Funcional (Ambiente de Teste):** [https://administradortarefas.bubbleapps.io/version-test](https://administradortarefas.bubbleapps.io/version-test)
-- **Vídeo Pitch de Apresentação:** *[https://youtu.be/uZkwjW2IKPU](https://youtu.be/uZkwjW2IKPU)*
+- **Vídeo Pitch de Apresentação:** *[https://youtu.be/8Tz_QiEi1xs](https://youtu.be/8Tz_QiEi1xs)*
 
 ---
 
